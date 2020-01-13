@@ -11,15 +11,6 @@ nb 物联网相关的辅助相关软件
 2. 集成mybatis plus快速dao操作
 3. 快速生成后台代码: entity/param/vo/controller/service/mapper/xml
 4. 集成swagger2，可自动生成api文档
-5. 集成jwt、shiro/spring security权限控制
-6. 集成redis、spring cache、ehcache缓存
-7. 集成rabbit/rocket/kafka mq消息队列
-8. 集成druid连接池，JDBC性能和慢查询检测
-9. 集成spring boot admin，实时检测项目运行情况
-10. 使用assembly maven插件进行不同环境打包部署,包含启动、重启命令，配置文件提取到外部config目录
-
-## 项目架构
-![spring-boot-plus-architecture.jpg](https://spring-boot-plus.gitee.io/img/spring-boot-plus-architecture.jpg)
 
 ### 项目环境 
 中间件 | 版本 |  备注
